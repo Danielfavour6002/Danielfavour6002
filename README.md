@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😃, I'm Favour Daniel</h1>
-<h3 align="center">A Backend Developer Django & Flask</h3>
+<h3 align="center">A Backend Developer Django & Flask & FastApi</h3>
 
-I’m a Bckend web developer specialized in Django , Flask, Javascript, etc.I have a good experience working with new frameworks for various projects. I have a passion to solve problems and I love to work on new projects and revolutionary ideas .
+I’m a Backend web developer specialized in Django , Flask, FastApi, Javascript, etc.I have a good experience working with new frameworks for various projects. I have a passion to solve problems and I love to work on new projects and revolutionary ideas .
 
 I like to make the dreams of peoples reality ! If you have any project you want to realise or if you have any need don't hesitate to contact me I would be more than happy to help you .
 
